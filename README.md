@@ -37,6 +37,18 @@ The work that will be subsequently done as part of this paper will have at the v
 •	Transparent - AI systems must be transparent and understandable.  
 •	Ethical - AI must assist humanity and be designed for intelligent privacy.  
 
+# Contents
+| File/folder       | Description                                |
+|-------------------|--------------------------------------------|
+| `notebook`        | Python Notebooks.                          |
+| `data`            | images for  casting manufacturing product.                        |
+| `images`          | Sample images used for documentation.      |
+| `.gitignore`      | Define what to ignore at commit time.      |
+| `CHANGELOG.md`    | List of changes to the sample.             |
+| `CONTRIBUTING.md` | Guidelines for contributing to the sample. |
+| `README.md`       | This README file.                          |
+| `LICENSE`         | The license for the sample.                |
+
 # SOURCE DATASET  
 ### 1.	FILE DATA STORE  
 The flat file data is sourced from the Movies Dataset hosted in Kaggle.   
