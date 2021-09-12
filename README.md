@@ -41,7 +41,7 @@ The work that will be subsequently done as part of this paper will have at the v
 | File/folder       | Description                                |
 |-------------------|--------------------------------------------|
 | `notebook`        | Python Notebooks.                          |
-| `data`            | images for  casting manufacturing product.                        |
+| `data`            | Flat files from Kaggle                        |
 | `images`          | Sample images used for documentation.      |
 | `.gitignore`      | Define what to ignore at commit time.      |
 | `CHANGELOG.md`    | List of changes to the sample.             |
